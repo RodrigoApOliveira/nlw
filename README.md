@@ -8,7 +8,7 @@ Projeto construido do evento Next level Week NLW da Rocketseat.
 
 [:link: Clique aqui para acessar](https://rodrigoapoliveira.github.io/nlw-esports-explorer/)
 
-## :tool: `Tecnologias`
+## :hammer_and_wrench: `Tecnologias`
 - HTML
 - CSS
 - Git e Github
